@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Follow Along With:
+[The Pragmatic Programmers](https://medium.com/pragmatic-programmers/define-the-application-state-ca2fed3a0779)
 ## Available Scripts
 
 In the project directory, you can run:
